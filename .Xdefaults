@@ -1,0 +1,61 @@
+!urxvt*termName:xterm
+urxvt*font: xft:Consolass:pixelsize=10
+urxvt*depth: 32
+urxvt*background: rgba:2000/2000/2000/dddd
+urxvt*foreground: rgb:ee/ee/ee
+urxvt*scrollBar: false
+urxvt.color0:         #0a0a0a
+urxvt.color8:         #71a3b7
+urxvt.color1:         #a35757
+urxvt.color9:         #a35757
+urxvt.color2:         #86af80
+urxvt.color10:        #8cba87
+urxvt.color3:         #968a38
+urxvt.color11:        #e0d95c
+urxvt.color4:         #3c8ec4
+urxvt.color12:        #5899c4
+urxvt.color5:         #9a70b2
+urxvt.color13:        #ad73ba
+urxvt.color6:         #418179
+urxvt.color14:        #338eaa
+urxvt.color7:         #c6c6c6
+urxvt.color15:        #f7f7f2
+urxvt.saveLines                 : 1024
+urxvt.transparent:              True
+urxvt.shading:          40
+!urxvt.fading: 20
+urxvt.urlLauncher:   google-chrome
+
+xpdf*enableFreetype:    yes
+xpdf*antialias:         yes
+xpdf*foreground:        black
+xpdf*background:        white
+xpdf*urlCommand:        /usr/bin/google-chrome s
+
+
+!xpdf*toolbarLocale: C
+!xpdf*menuLocale: C
+
+UXTerm*termName:xterm
+UXTerm*faceName:terminus:pixelsize=14
+UXTerm*cursorBlink: false
+UXTerm*foreground: light grey
+UXTerm*background: #1c1c1c
+UXTerm*saveLines: 10000
+UXTerm*scrollBar: false
+*color0:         #0a0a0a
+*color8:         #71a3b7
+*color1:         #a35757
+*color9:         #a35757
+*color2:         #86af80
+*color10:        #8cba87
+*color3:         #968a38
+*color11:        #e0d95c
+*color4:         #3c8ec4
+*color12:        #5899c4
+*color5:         #9a70b2
+*color13:        #ad73ba
+*color6:         #418179
+*color14:        #338eaa
+*color7:         #c6c6c6
+*color15:        #f7f7f2
